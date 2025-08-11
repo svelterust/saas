@@ -5,7 +5,7 @@
 
 <nav class="container">
   <ul>
-    <li><strong>Minimal SaaS</strong></li>
+    <li><strong><a class="contrast" href="/">Minimal SaaS</a></strong></li>
   </ul>
   <ul>
     <li><a class="contrast" href="/">About</a></li>
