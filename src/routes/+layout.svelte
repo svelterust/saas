@@ -1,6 +1,4 @@
 <script lang="ts">
-  import "../pico.css";
-
   // Props
   const { children } = $props();
 </script>
