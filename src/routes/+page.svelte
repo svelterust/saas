@@ -2,10 +2,10 @@
   <title>Minimal SaaS</title>
 </svelte:head>
 
-<h1>Minimal SaaS</h1>
-<p>Welcome to my simple, blazingly fast web app.</p>
+<h1>Become Member</h1>
+<p>Come and join our SaaS today!</p>
 
-<form>
+<form method="POST">
   <div class="grid">
     <label>
       First name
@@ -17,5 +17,11 @@
     </label>
   </div>
 
-  <button type="submit">Subscribe</button>
+  <button type="submit">Join SaaS</button>
 </form>
+
+<style>
+  form {
+    max-width: 1024px;
+  }
+</style>
