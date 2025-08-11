@@ -10,9 +10,9 @@
     <li><strong>Minimal SaaS</strong></li>
   </ul>
   <ul>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Services</a></li>
-    <li><a href="#">Products</a></li>
+    <li><a href="/">About</a></li>
+    <li><a href="/">Services</a></li>
+    <li><a href="/">Products</a></li>
   </ul>
 </nav>
 
