@@ -1,5 +1,5 @@
 <script lang="ts">
-  import "./pico.css";
+  import "../pico.css";
 
   // Props
   const { children } = $props();
